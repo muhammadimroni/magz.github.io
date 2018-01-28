@@ -1,2 +1,0 @@
-$ dig jeepbla.com +noall +answer
-> jeepbla.com.     3600    IN A     192.168.43.164
